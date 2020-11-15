@@ -1,7 +1,6 @@
-# GIT-
-Pruebas con git 
+# GIT
 
-Inicio
+-Inicio
 
 git init
 
