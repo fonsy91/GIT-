@@ -1,6 +1,7 @@
 # GIT-
 Pruebas con git 
-###Inicio
+
+Inicio
 
 git init
 
